@@ -1,0 +1,10 @@
+{
+  "manifest": {
+    "name": "MCP Server",
+    "description": "Apps for managing model context pathways"
+  },
+  "gas_folders": [
+    "code",
+    "binlibs"
+  ]
+}
